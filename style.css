@@ -18,6 +18,11 @@ ol {
     list-style-type: upper-roman;
 }
 
+img {
+    max-width: 600px;
+    height: auto;
+}
+
 .links {
     font-size: 30px;
     font-weight: bold;
